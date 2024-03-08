@@ -1,0 +1,32 @@
+[
+  {
+    "id": "93bfea1b-2747-40e6-8ef4-b7df2904d073",
+    "type": "DAILY",
+    "element": "1b92ea063b81ee499720b4dcd2180a3aF/oA27ECI2NZLP9AyUZ7Tl5N9SXXmKsYMmFGkVisOyFjB8RER0f4TmpK8byUrceiq2/Vme5ciGWpbz8bjv3n7w==",
+    "props": "d3f4d1dbac34a0dbc2923fd9d8de6716VXDai1BJrM+irT7iCbxfnaJRMyzaa80dV2Tpc3v80hQ=",
+    "collapsed": true,
+    "folded": true,
+    "children": [
+      "78936081-9044-44b6-a0e1-9a9c37345766"
+    ],
+    "openedAt": "2024-03-08T18:07:39.071Z",
+    "createdAt": "2024-03-08T18:07:39.071Z",
+    "updatedAt": "2024-03-08T18:07:39.071Z",
+    "spaceId": "f26f12cc-b7f8-42fd-a4c7-5faaa416edee",
+    "parentId": "15c38ae1-562e-4d65-8f14-000f649f0b34"
+  },
+  {
+    "id": "78936081-9044-44b6-a0e1-9a9c37345766",
+    "type": "COMMON",
+    "element": "b176957cde5b520bb076f5f104dd99491bRuk6+szVOQhnPep9uT+QVSqxyHbbVZBtuYv1LTWlpyFp0RUneomwBQlKSbGGdP",
+    "props": "5014ed1db9f1cb48cff363b4c7f9e88aQDOP/H0oakmhi7im/zVgeQ==",
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2024-03-08T18:07:39.072Z",
+    "createdAt": "2024-03-08T18:07:39.072Z",
+    "updatedAt": "2024-03-08T18:07:39.074Z",
+    "spaceId": "f26f12cc-b7f8-42fd-a4c7-5faaa416edee",
+    "parentId": "93bfea1b-2747-40e6-8ef4-b7df2904d073"
+  }
+]

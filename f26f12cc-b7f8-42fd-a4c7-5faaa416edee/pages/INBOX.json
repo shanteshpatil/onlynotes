@@ -1,0 +1,30 @@
+[
+  {
+    "id": "8459c1f6-c493-4707-9110-561c39054b32",
+    "type": "INBOX",
+    "element": "88b2930e96da858eddfe63a97f0c2233wjNscXGpHH6sHV45hQDJg7i5NNDrk3MNJjQjxKCfu+Kp+vhqVMgKvmXZFBkpQqxi",
+    "props": "97ec4fa6f11055fbd452dcb981387900i14FRVXArPUkZNXskFx5AA==",
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "1053554a-f044-4b29-a65c-d535e24c6dd2"
+    ],
+    "openedAt": "2024-03-08T18:07:39.063Z",
+    "createdAt": "2024-03-08T18:07:39.063Z",
+    "updatedAt": "2024-03-08T18:07:39.063Z",
+    "spaceId": "f26f12cc-b7f8-42fd-a4c7-5faaa416edee"
+  },
+  {
+    "id": "1053554a-f044-4b29-a65c-d535e24c6dd2",
+    "type": "COMMON",
+    "element": "fa0c0def222542a4068a665122b85207SRcMr+zcIK4Is5595Eh8JEwbrUJdqYmF//SmVPD4ZB53y0WRuAaapg4/BqzRl7kh",
+    "props": "1ff4de923261531055b0b936bbe88b88eDBBUni2ZdvQQXmF68ftkg==",
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2024-03-08T18:07:39.061Z",
+    "createdAt": "2024-03-08T18:07:39.061Z",
+    "updatedAt": "2024-03-08T18:07:39.061Z",
+    "spaceId": "f26f12cc-b7f8-42fd-a4c7-5faaa416edee"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "id": "f26f12cc-b7f8-42fd-a4c7-5faaa416edee",
+  "userId": "4b7ef9ff-c4a4-4d3a-b483-c7cf11bf431e",
+  "editorMode": "BLOCK",
+  "name": "Shantesh",
+  "sort": 1,
+  "isActive": true,
+  "color": "brand500",
+  "activeNodeIds": [
+    "0a3cec30-b9f8-4a75-b27e-fc64f3294fc3"
+  ],
+  "nodeSnapshot": {
+    "version": 0,
+    "nodeMap": {}
+  },
+  "pageSnapshot": {
+    "version": 0,
+    "pageMap": {}
+  },
+  "createdAt": "2024-03-08T18:07:36.728Z",
+  "updatedAt": "2024-03-08T18:07:36.728Z",
+  "syncServerId": "afe9de2f-728d-4bb8-9f36-d285e9916b7c",
+  "syncServerUrl": "https://sync-server-official-2.penx.io",
+  "syncServerAccessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI0YjdlZjlmZi1jNGE0LTRkM2EtYjQ4My1jN2NmMTFiZjQzMWUiLCJpYXQiOjE3MDk5MjEyNTl9.H0kWRIwixKmMdyytd6kQByVi_Tn7MnZdkGznLynQlr8",
+  "nodesLastUpdatedAt": "2024-03-08T18:27:53.532Z"
+}
